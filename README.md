@@ -58,5 +58,5 @@ Each challenge overcome brings a sense of accomplishment and enhances overall pr
    ```bash
    git clone https://github.com/your-username/sweet-sip.git
 Hosted Website
-You can view the live version of this project by visiting:
-Sweet & Sip - Candy Shop with Coffee
+You can view the live version of this project by visiting: 
+[https://web-ten-wine.vercel.app/]
