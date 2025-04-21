@@ -1,0 +1,37 @@
+/* barlow-regular - latin */
+@font-face {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+         url('../fonts/barlow-v5-latin-regular.woff2') format('woff2'), 
+         url('../fonts/barlow-v5-latin-regular.woff') format('woff');
+  }
+  /* barlow-700 - latin */
+  @font-face {
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 700;
+    src: local(''),
+         url('../fonts/barlow-v5-latin-700.woff2') format('woff2'), 
+         url('../fonts/barlow-v5-latin-700.woff') format('woff');
+  }
+
+  /* fraunces-regular - latin */
+@font-face {
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+         url('../fonts/fraunces-v10-latin-regular.woff2') format('woff2'),
+         url('../fonts/fraunces-v10-latin-regular.woff') format('woff');
+  }
+  /* fraunces-900 - latin */
+  @font-face {
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    src: local(''),
+         url('../fonts/fraunces-v10-latin-900.woff2') format('woff2'), 
+         url('../fonts/fraunces-v10-latin-900.woff') format('woff'); 
+  }
