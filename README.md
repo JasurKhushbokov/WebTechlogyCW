@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # web
 Sweet & Sip - Candy Shop with Coffee
 Sofia
@@ -63,3 +64,6 @@ Hosted Website
 [https://web-ten-wine.vercel.app/]
 
 
+=======
+# WebTechlogyCW
+>>>>>>> 8511373e738a17bf1969d3fa9213a0b6884b90c8
